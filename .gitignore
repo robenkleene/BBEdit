@@ -1,0 +1,9 @@
+# Ignore everything
+/*
+
+# Except
+!.gitignore
+!Clippings
+!Color\ Schemes
+!Stationery
+!Text\ Filters
